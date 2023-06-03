@@ -7,5 +7,5 @@
 
 商务联系Vx：
 
-![avat](https://cdn.pixabay.com/photo/2023/05/15/08/52/flower-7994491_640.jpg)
+![](https://cdn.pixabay.com/photo/2023/05/15/08/52/flower-7994491_640.jpg)
 
