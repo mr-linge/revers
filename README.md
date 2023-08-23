@@ -8,10 +8,7 @@
 * 阿里140
 * 阿里223
 * 头条sign
-
-![1692696438314](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\1692696438314.png)
-
-
+![1692696438314](https://github.com/mr-linge/revers/blob/main/1692696438314.png)
 
 # App端逆向案例展示
 
@@ -19,8 +16,7 @@
 * 瑞幸sign
 * biliSign
 * 微博Sign
-
-![1692757399187](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\1692757399187.png)
+![1692757399187](https://github.com/mr-linge/revers/blob/main/1692757399187.png)
 
 提示：项目比较敏感，为了脱敏，案例代码就不展示了。
 
